@@ -43,4 +43,4 @@ I leverage code to solve real-world problems. Because I am entirely self-taught,
 
 ### 🤝 Let's Connect & Build Something Great!
 - **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile URL Name](www.linkedin.com/in/asad-jamil-buledi)
+- **LinkedIn:** [Asad Jamil Buledi](www.linkedin.com/in/asad-jamil-buledi)
