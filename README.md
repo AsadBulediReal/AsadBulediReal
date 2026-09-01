@@ -42,5 +42,5 @@ I leverage code to solve real-world problems. Because I am entirely self-taught,
 ---
 
 ### 🤝 Let's Connect & Build Something Great!
-- **Email:** bulediasadjamil@gmail.com
-- **LinkedIn:** [Asad Jamil Buledi](https://www.linkedin.com/in/asad-jamil-buledi)
+- **Email:** <a href="mailto:bulediasadjamil@gmail.com" target="_blank">bulediasadjamil@gmail.com</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/asad-jamil-buledi" target="_blank">Asad Jamil Buledi</a>
