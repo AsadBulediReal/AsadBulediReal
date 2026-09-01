@@ -26,7 +26,7 @@ I leverage code to solve real-world problems. Because I am entirely self-taught,
 #### 🎓 ELearner — Full-Stack Learning Management System
 - **Tech Stack:** Next.js 14, React 18, Tailwind CSS, Radix UI, Prisma, Clerk, Stripe, Mux, Uploadthing
 - **Core Features:** Educator and student portals, interactive video streaming powered by Mux, drag-and-drop course & chapter creation, secure Stripe checkout, and student analytics tracking.
-- 💻 [Source Code Repository](https://github.com/AsadBulediReal/lms-app)
+- 🔗 [Live Demo](https://lms-app-delta.vercel.app/) | 💻 [Source Code Repository](https://github.com/AsadBulediReal/lms-app)
 
 #### 📱 Apple iPhone 15 Pro Clone — 3D Cinematic Experience
 - **Tech Stack:** React 18, Vite, Three.js, React Three Fiber, Drei, GSAP ScrollTrigger, Tailwind CSS
