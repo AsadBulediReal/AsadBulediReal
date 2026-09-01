@@ -1,11 +1,11 @@
 # Hi there, I'm Asad Buledi 👋
 
-I am a highly driven **Full-Stack & Frontend Developer** specializing in building responsive, efficient, and scalable web applications using React, Next.js, TypeScript, Node.js, Express, and modern 3D web technologies.
+I am a highly driven **Full-Stack & Frontend Developer** specializing in building responsive, efficient, and scalable web applications using React, Next.js, TypeScript, Node.js, Express, and modern cloud architectures.
 
 I leverage code to solve real-world problems. Because I am entirely self-taught, I place supreme focus on writing clean, production-ready code, mastering Git version control, and deploying fully functional live applications.
 
 - 🌍 Based in Pakistan (Open to Remote Contracts & Global On-Site Relocation)
-- 🚀 Current Focus: Full-Stack Architecture, 3D Web Experiences (Three.js), & Next.js Performance
+- 🚀 Current Focus: Full-Stack Next.js & MERN Architecture, Docker Containerization & CI/CD Pipelines
 - 💼 Available for: Junior Full-Stack / Frontend / React Developer roles
 
 ---
@@ -14,10 +14,10 @@ I leverage code to solve real-world problems. Because I am entirely self-taught,
 
 | Layer | Technologies & Tools |
 | :--- | :--- |
-| **Frontend** | JavaScript (ES6+), TypeScript, React.js, Next.js, Three.js, React Three Fiber, GSAP, HTML5, CSS3, Tailwind CSS, Redux Toolkit |
+| **Frontend** | JavaScript (ES6+), TypeScript, React.js, Next.js, HTML5, CSS3, Tailwind CSS, Redux Toolkit, RxJS |
 | **Backend** | Node.js, Express.js, RESTful APIs, JSON Web Tokens (JWT), Clerk Auth |
 | **Database & ORM** | MongoDB, Mongoose ODM, Prisma, MongoDB Atlas |
-| **DevOps & Cloud** | Git, GitHub, Stripe, Mux, Uploadthing, Vercel, Netlify, Render |
+| **DevOps & Cloud** | Docker, Docker Compose, GitHub Actions (CI/CD), Git, GitHub, Stripe, Mux, Uploadthing, Vercel, Netlify, Render |
 
 ---
 
